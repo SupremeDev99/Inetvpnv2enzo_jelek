@@ -1,2 +1,2 @@
 # Inetvpnv2enzo_jelek
-App Config
+This is just the encripted app config of inet vpn
